@@ -1,0 +1,7 @@
+AudioPyPlayer , simples reprodutor de Audio 
+basta clicar em Reproduzir e escolher o arquivo
+no momento é suportado apenas mp3 e wav 
+e ao clicar em parar o audio é resetado sendo necessario selecionar novamente o arquivo
+Esta é a versão 1.0 Alpha
+
+Depende de: Pygame e Tkinter
